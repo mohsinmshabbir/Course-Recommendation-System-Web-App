@@ -1,0 +1,2 @@
+# Course Recommendation System Web App
+ This project is a web-based application designed to recommend elective courses to students based on their current grade report. The application uses data extraction from PDF grade reports, data processing, and a recommendation algorithm to suggest the most suitable elective courses. Built using Python and Flask, this project incorporates various data science techniques to analyze and recommend courses that align with the student's interests, career goals, and academic performance.
