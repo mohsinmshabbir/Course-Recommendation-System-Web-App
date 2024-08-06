@@ -2,7 +2,7 @@
 
 This project is a web-based application designed to recommend elective courses to students based on their current grade report. The application uses data extraction from PDF grade reports, data processing, and a recommendation algorithm to suggest the most suitable elective courses. Built using Python and Flask, this project incorporates various data science techniques to analyze and recommend courses that align with the student's interests, career goals, and academic performance.
 
-[![course-recommendation-system](https://github.com/user-attachments/assets/9371367c-d25f-4fcc-baa7-afa151b45cdb)]
+![course-recommendation-system](https://github.com/user-attachments/assets/9371367c-d25f-4fcc-baa7-afa151b45cdb)
 
 
 ## Features
@@ -34,7 +34,7 @@ This project is a web-based application designed to recommend elective courses t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/elective-course-recommendation-system.git
+   git clone https://github.com/mohsinmshabbir/elective-course-recommendation-system.git
    cd elective-course-recommendation-system
    ```
 
