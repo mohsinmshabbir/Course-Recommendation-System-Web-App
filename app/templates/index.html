@@ -1,0 +1,105 @@
+{% extends 'base.html' %}
+{% block title %}Course Recommendation System{% endblock %}
+{% block content %}
+<style>
+    /* style.css */
+
+    body {
+        font-family: Arial, sans-serif;
+        background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+        margin: 20px;
+    }
+
+    .container {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    }
+
+    h1 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    form {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    input[type="file"] {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+    button {
+        background-color: #4c9baf;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #45a049;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    table, th, td {
+        border: 1px solid #ddd;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: center;
+    }
+
+    th {
+        background-color: #f2f2f2;
+        color: #333;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    tr:hover {
+        background-color: #f2f2f2;
+    }
+</style>
+<div class="container">
+    <h1>Welcome to the Course Recommendation System</h1>
+    <form action="{{ url_for('upload_file') }}" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="pdf_file">Upload Grade Report PDF</label>
+            <input type="file" class="form-control" id="pdf_file" name="pdf_file" accept="application/pdf">
+        </div>
+        <button type="submit" class="btn btn-primary" style="margin: 10px;">Upload</button>
+    </form>
+    <br>
+    <button class="btn btn-secondary"><a  style="color: white;" href="{{ url_for('improve_model') }}">Improve Our Model</a></button>
+</div>
+<script>
+    function validateFile() {
+        const input = document.getElementById('pdf_file');
+        const filePath = input.value;
+        const allowedExtensions = /(\.pdf)$/i;
+        
+        if (!allowedExtensions.exec(filePath)) {
+            alert('Please upload a file with .pdf extension.');
+            input.value = '';
+            return false;
+        }
+        return true;
+    }
+</script>
+{% endblock %}

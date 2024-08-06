@@ -1,0 +1,119 @@
+<!-- improve_model.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Improve Our Model</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <!-- Add Bootstrap CSS for better styling -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+        /* Body styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            margin-top: 50px;
+        }
+
+        /* Heading styles */
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        /* Table container styles */
+        .table-responsive {
+            overflow-x: auto;
+        }
+
+        /* Table styles */
+        table {
+            width: 100%;
+            margin-bottom: 20px;
+            background-color: #fff;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            text-align: left;
+        }
+
+        /* Sticky column */
+        th:first-child, td:first-child {
+            position: -webkit-sticky;
+            position: sticky;
+            left: 0;
+            background-color: #fff;
+            z-index: 2;
+        }
+
+        /* Form styles */
+        form {
+            margin-bottom: 20px;
+        }
+
+        /* Button styles */
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Improve Our Model</h1>
+        <form method="post">
+            <div class="table-responsive">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            {% for col in columns %}
+                                <th>{{ col }}</th>
+                            {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in data %}
+                            <tr>
+                                {% for col in columns %}
+                                    <td>
+                                        {% if col in ['Industry Relevance'] %}
+                                            <select name="{{ col }}">
+                                                {% if col == 'Industry Relevance' %}
+                                                    <option value="0" {% if row[col] == 0 %}selected{% endif %}>0</option>
+                                                    <option value="0.5" {% if row[col] == 0.5 %}selected{% endif %}>0.5</option>
+                                                    <option value="1" {% if row[col] == 1 %}selected{% endif %}>1</option>
+                                                {% endif %}
+                                            </select>
+                                        {% elif col in ['Interest Level', 'Relevance to Career Goals', 'Course Popularity'] %}
+                                            <input type="number" step="0.01" name="{{ col }}" value="{{ row[col] }}">
+                                        {% else %}
+                                            <input type="text" name="{{ col }}" value="{{ row[col] }}">
+                                        {% endif %}
+                                    </td>
+                                {% endfor %}
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <button type="submit" class="btn btn-primary">Save Changes</button>
+        </form>
+    </div>
+</body>
+</html>

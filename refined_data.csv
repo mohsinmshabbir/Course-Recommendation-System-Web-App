@@ -1,0 +1,108 @@
+Sr.,Course Code,Course Title,Pre-req,Cr. Hrs.,Semester,Course Difficulty Level,Interest Level,Relevance to Career Goals,Course Popularity,Skillset Covered,Project-Based Learning,Industry Relevance
+1.00,EL170,English Comprehension and Composition,-,3-0-3,1,Easy,0.38,0.74,0.71,"Communication, Communication, Public Speaking",0.00,0.51
+1.78,PH111,Applied Physics,-,2-0-2,1,Easy,0.77,0.38,0.39,"Physics, Communication, Communication, Public Speaking",0.78,0.16
+2.57,PH111L,Applied Physics Lab,-,0-1-1,1,Easy,0.63,0.29,0.45,"Lab Skills, Communication, Communication, Public Speaking",0.00,0.51
+3.34,HU405,Pakistan Studies,-,2-0-2,1,Moderate,0.53,0.42,0.75,"Civics, Communication, Communication, Public Speaking",0.78,0.51
+4.12,CS181,Introduction to Information and Communication Technologies,-,2-0-2,1,Moderate,0.24,0.33,0.66,"ICT, Communication, Communication, Public Speaking",0.78,0.51
+4.91,CS181L,Introduction to Information and Communication Technologies Lab,-,0-1-1,1,Moderate,0.24,0.87,0.81,"ICT Lab, Communication, Communication, Public Speaking",0.78,0.51
+5.69,CS111,Programming Fundamentals,-,3-0-3,1,Moderate,0.16,0.79,0.66,"Programming, Communication, Communication, Public Speaking",0.00,0.51
+6.47,CS111L,Programming Fundamentals Lab,-,0-1-1,1,Moderate,0.73,0.65,0.61,"Programming Lab, Communication, Communication, Public Speaking",0.78,0.85
+7.25,MA 114,Foundational Mathematics,-,3-0-3,1,Moderate,0.53,0.83,0.28,"Mathematics, Communication, Communication, Public Speaking",0.78,0.16
+1.00,EL271,Expository Writing,EL170,3-0-3,2,Easy,0.62,0.78,0.47,"Writing, Communication, Communication, Public Speaking",0.00,0.85
+1.78,CS112,Object Oriented Programming,"CS111, CS111L",3-0-3,2,Moderate,0.13,0.35,0.41,"OOP, Communication, Communication, Public Speaking",0.78,0.51
+2.57,CS112L,Object Oriented Programming Lab,"CS111, CS111L",0-1-1,2,Moderate,0.78,0.84,0.39,"OOP Lab, Communication, Communication, Public Speaking",0.78,0.16
+3.34,MA216,Discrete Structures,-,3-0-3,2,Easy,0.70,0.59,0.87,"Mathematics, Communication, Communication, Public Speaking",0.00,0.51
+4.12,EE123,Digital Logic Design,-,2-0-2,2,Moderate,0.28,0.79,0.49,"Digital Systems, Communication, Communication, Public Speaking",0.78,0.16
+4.91,EE123L,Digital Logic Design Laboratory,-,0-1-1,2,Moderate,0.26,0.85,0.83,"Digital Systems Lab, Communication, Communication, Public Speaking",0.78,0.85
+5.69,CS130,Database Systems,-,3-0-3,2,Moderate,0.26,0.44,0.64,"Databases, Communication, Communication, Public Speaking",0.78,0.16
+6.47,CS130L,Database Systems Laboratory,-,0-1-1,2,Moderate,0.32,0.30,0.78,"Databases Lab, Communication, Communication, Public Speaking",0.00,0.16
+7.25,MA118,Pre-Calculus,-,3-0-3,2,Hard,0.48,0.38,0.57,"Mathematics, Communication, Communication, Public Speaking",0.00,0.16
+1.00,MA301,Probability and Statistics,-,3-0-3,3,Moderate,0.42,0.52,0.61,"Mathematics, Communication, Communication, Public Speaking",0.00,0.16
+1.78,CS216,Data Structures & Algorithms,"CS112, CS112L",3-0-3,3,Moderate,0.31,0.79,0.57,"Data Structures, Communication, Communication, Public Speaking",0.78,0.16
+2.57,CS216L,Data Structures & Algorithms Lab,"CS112, CS112L",0-1-1,3,Easy,0.53,0.83,0.36,"Data Structures Lab, Communication, Communication, Public Speaking",0.78,0.51
+3.34,CS2XX,Domain Elective-I,-,2-0-2,3,Moderate,0.23,0.23,0.72,"Specialized Domain, Communication, Communication, Public Speaking",0.00,0.16
+4.12,CS2XXL,Domain Elective-I Lab,-,0-1-1,3,Moderate,0.31,0.58,0.42,"Specialized Domain Lab, Communication, Communication, Public Speaking",0.78,0.16
+4.91,MA110,Calculus and Analytical Geometry,-,3-0-3,3,Easy,0.38,0.51,0.25,"Mathematics, Communication, Communication, Public Speaking",0.78,0.85
+5.69,CS215,Information Security,-,2-0-2,3,Moderate,0.45,0.37,0.66,"Security, Communication, Communication, Public Speaking",0.00,0.16
+6.47,CS215L,Information Security Lab,-,0-1-1,3,Moderate,0.66,0.30,0.34,"Security Lab, Communication, Communication, Public Speaking",0.00,0.85
+1.00,MA105,Multivariable Calculus,MA110,3-0-3,4,Hard,0.27,0.46,0.86,"Mathematics, Communication, Communication, Public Speaking",0.78,0.51
+1.78,CS260,Computer Networks,,2-0-2,4,Hard,0.47,0.87,0.86,"Networking, Communication, Communication, Public Speaking",0.78,0.16
+2.57,CS260L,Computer Networks Lab,,0-1-1,4,Moderate,0.52,0.44,0.84,"Networking Lab, Communication, Communication, Public Speaking",0.78,0.85
+3.34,CS226,Computer Organization and Assembly Language,"EE123, EE123L",2-0-2,4,Moderate,0.15,0.59,0.47,"Computer Architecture, Communication, Communication, Public Speaking",0.00,0.85
+4.12,CS226L,Computer Organization and Assembly Language,"EE123, EE123L",0-1-1,4,Easy,0.53,0.69,0.25,"Computer Architecture Lab, Communication, Communication, Public Speaking",0.00,0.51
+4.91,CS2XX,Domain Elective-II,-,2-0-2,4,Hard,0.25,0.47,0.85,"Specialized Domain, Communication, Communication, Public Speaking",0.00,0.16
+5.69,CS2XXL,Domain Elective-II Lab,-,0-1-1,4,Hard,0.17,0.88,0.53,"Specialized Domain Lab, Communication, Communication, Public Speaking",0.00,0.16
+6.47,CS305,Software Engineering,-,3-0-3,4,Easy,0.77,0.87,0.87,"Software Engineering, Communication, Communication, Public Speaking",0.78,0.85
+7.25,HU411,Civics and Community Engagement,-,2-0-2,4,Moderate,0.78,0.39,0.87,"Civics, Communication, Communication, Public Speaking",0.00,0.16
+1.00,BA152,Introduction to Management,-,2-0-2,5,Easy,0.68,0.58,0.81,"Management, Communication, Communication, Public Speaking",0.00,0.85
+1.78,CS332,Design and Analysis of Algorithms,"CS216, CS216L",3-0-3,5,Easy,0.32,0.42,0.43,"Algorithms, Communication, Communication, Public Speaking",0.00,0.16
+2.57,CS325,Operating Systems,-,2-0-2,5,Easy,0.20,0.41,0.49,"Operating Systems, Communication, Communication, Public Speaking",0.00,0.85
+3.34,CS325L,Operating Systems Lab,-,0-1-1,5,Easy,0.59,0.26,0.81,"Operating Systems Lab, Communication, Communication, Public Speaking",0.00,0.16
+4.12,CS3XX,Domain Elective -111,-,2-0-2,5,Hard,0.43,0.63,0.44,"Specialized Domain, Communication, Communication, Public Speaking",0.78,0.51
+4.91,CS3XXL,Domain Elective -111 Lab,-,0-1-1,5,Moderate,0.21,0.58,0.33,"Specialized Domain Lab, Communication, Communication, Public Speaking",0.78,0.16
+5.69,MA201,Linear Algebra,-,3-0-3,5,Moderate,0.47,0.27,0.60,"Mathematics, Communication, Communication, Public Speaking",0.00,0.16
+6.47,CS344,Artificial lntelligence,-,2-0-2,5,Moderate,0.14,0.41,0.86,"AI, Communication, Communication, Public Speaking",0.78,0.51
+7.25,CS344L,Artificial Intelligence Lab,-,0-1-1,5,Hard,0.75,0.86,0.70,"AI Lab, Communication, Communication, Public Speaking",0.00,0.16
+1.00,EL400,Technical & Business Writing,-,3-0-3,6,Hard,0.29,0.38,0.61,"Technical Writing, Communication, Communication, Public Speaking",0.00,0.51
+1.78,CS333,Theory of Automata,-,3-0-3,6,Easy,0.57,0.31,0.29,"Theory, Communication, Communication, Public Speaking",0.78,0.16
+2.57,csxxx,Domain Elective-IV,-,2-0-2,6,Moderate,0.33,0.57,0.63,"Specialized Domain, Communication, Communication, Public Speaking",0.78,0.85
+3.34,CSXXXL,Domain Elective -IV Lab,-,0-1-1,6,Easy,0.48,0.89,0.89,"Specialized Domain Lab, Communication, Communication, Public Speaking",0.00,0.85
+4.12,csxxx,Domain Elective-V,-,2-0-2,6,Moderate,0.50,0.38,0.32,"Specialized Domain, Communication, Communication, Public Speaking",0.00,0.16
+4.91,CSXXXL,Domain Elective-V Lab,-,0-1-1,6,Easy,0.26,0.67,0.59,"Specialized Domain Lab, Communication, Communication, Public Speaking",0.00,0.16
+5.69,CS330,Advanced Database Management systems,"CS130, CS130L",2-0-2,6,Moderate,0.78,0.74,0.82,"Databases, Communication, Communication, Public Speaking",0.78,0.16
+6.47,CS330,Advanced Database Management Systems Lab,"CS130, CS130L",0-1-1,6,Moderate,0.66,0.38,0.74,"Databases Lab, Communication, Communication, Public Speaking",0.00,0.85
+7.25,HU124,Islamic Studies and Ethics,-,2-0-2,6,Easy,0.76,0.71,0.70,"Ethics, Communication, Communication, Public Speaking",0.00,0.16
+8.03,CS491,Final Year Project- I,List A,0-1-1,6,Easy,0.74,0.48,0.70,"Project, Communication, Communication, Public Speaking",0.00,0.85
+1.00,csxxx,Domain Elective-VI,-,2-0-2,7,Moderate,0.53,0.65,0.46,"Specialized Domain, Communication, Communication, Public Speaking",0.78,0.51
+1.78,CSXXXL,Domain Elective -VI Lab,-,0-1-1,7,Easy,0.76,0.65,0.43,"Specialized Domain Lab, Communication, Communication, Public Speaking",0.00,0.85
+2.57,CS426,Parallel and Distributed Computing,"CS325, CS325L",2-0-2,7,Moderate,0.19,0.59,0.80,"Distributed Systems, Communication, Communication, Public Speaking",0.00,0.85
+3.34,CS426L,Parallel and Distributed Computing Lab,"CS325, CS325L",0-1-1 ,7,Easy,0.27,0.29,0.80,"Distributed Systems Lab, Communication, Communication, Public Speaking",0.78,0.51
+4.12,csxxx,Domain Elective-VII,-,2-0-2,7,Easy,0.15,0.81,0.82,"Specialized Domain, Communication, Communication, Public Speaking",0.00,0.85
+4.91,CSXXXL,Domain Elective- VII Lab,-,0-1-1,7,Moderate,0.34,0.44,0.84,"Specialized Domain Lab, Communication, Communication, Public Speaking",0.00,0.16
+5.69,MK101,Principles of Marketina,-,3-0-3,7,Moderate,0.40,0.35,0.58,"Marketing, Communication, Communication, Public Speaking",0.78,0.16
+6.47,CS470,Professional Practices,-,2-0-2,7,Easy,0.29,0.26,0.57,"Professional Practices, Communication, Communication, Public Speaking",0.00,0.85
+7.25,CS492,Final Year Proiect - II,CS491,0-2-2,7,Easy,0.70,0.62,0.79,"Project, Communication, Communication, Public Speaking",0.78,0.16
+8.03,BA353,Entrepreneurship,-,2-0-2,7,Easy,0.37,0.68,0.66,"Entrepreneurship, Communication, Communication, Public Speaking",0.78,0.85
+1.00,CS434,Compiler Construction,CS333,2-0-2,8,Hard,0.30,0.24,0.70,"Compilers, Communication, Communication, Public Speaking",0.00,0.16
+1.78,CS434L,Compiler Construction Lab,CS333,0-1-1,8,Moderate,0.49,0.58,0.79,"Compilers Lab, Communication, Communication, Public Speaking",0.00,0.16
+2.57,CS424,Computer Architecture,"CS226, CS226L",2-0-2,8,Moderate,0.23,0.38,0.83,"Computer Architecture, Communication, Communication, Public Speaking",0.00,0.85
+3.34,CS424L,Computer Architecture Lab,"CS226, CS226L",0-1-1,8,Hard,0.67,0.65,0.46,"Computer Architecture Lab, Communication, Communication, Public Speaking",0.00,0.16
+4.12,CS474,HCI & Computer Graphics,-,2-0-2,8,Easy,0.17,0.34,0.48,"HCI & Graphics, Communication, Communication, Public Speaking",0.78,0.85
+4.91,CS474L,HCI & Computer Graphics Lab,-,0-1-1,8,Hard,0.80,0.69,0.28,"HCI & Graphics Lab, Communication, Communication, Public Speaking",0.00,0.16
+5.69,CS493,Final Year Proiect-111,CS492,0-3-3,8,Moderate,0.65,0.49,0.61,"Project, Communication, Communication, Public Speaking",0.78,0.16
+1.00,CS284,Visual Programming,"CS112, CS112L",2-0-2,-,Easy,0.27,0.87,0.26,"Programming, Communication, Communication, Public Speaking",0.00,0.51
+1.00,CS284L,Visual Programming Lab,"CS112, CS112L",0-1-1,-,Moderate,0.13,0.31,0.56,"Programming Lab, Communication, Communication, Public Speaking",0.00,0.51
+1.78,CS281,Mobile Computing,-,2-0-2,-,Moderate,0.69,0.46,0.60,"Mobile Development, Communication, Communication, Public Speaking",0.00,0.85
+1.78,CS281L,Mobile Computing Lab,-,0-1-1,-,Moderate,0.62,0.30,0.43,"Mobile Development Lab, Communication, Communication, Public Speaking",0.78,0.51
+2.57,CS301,Full stack web development,CS112 CS112L,2-0-2,-,Hard,0.63,0.86,0.61,"Web Development, Communication, Communication, Public Speaking",0.00,0.85
+2.57,CS301L,Full stack web development Lab,"CS112, CS112L",0-1-1,-,Moderate,0.65,0.83,0.25,"Web Development Lab, Communication, Communication, Public Speaking",0.00,0.51
+3.34,CS485,Fundamentals of Quantum Communication,-,2-0-2,-,Moderate,0.17,0.40,0.26,"Quantum Communication, Communication, Communication, Public Speaking",0.00,0.16
+3.34,CS485L,Fundamentals of Quantum Communication Lab,-,0-1-1,-,Moderate,0.37,0.66,0.81,"Quantum Communication Lab, Communication, Communication, Public Speaking",0.00,0.85
+4.12,CS384,Quantum Computing,-,2-0-2,-,Hard,0.21,0.79,0.46,"Quantum Computing, Communication, Communication, Public Speaking",0.78,0.85
+4.12,CS384L,Quantum Computing Lab,-,0-1-1,-,Moderate,0.72,0.61,0.31,"Quantum Computing Lab, Communication, Communication, Public Speaking",0.00,0.16
+4.91,CS344,Digital Image Processing,-,2-0-2,-,Easy,0.54,0.59,0.59,"Image Processing, Communication, Communication, Public Speaking",0.78,0.85
+4.91,CS344L,Digital Image Processing Lab,-,0-1-1,-,Easy,0.34,0.38,0.76,"Image Processing Lab, Communication, Communication, Public Speaking",0.78,0.85
+5.69,CS402,Data Science,-,2-0-2,-,Easy,0.16,0.29,0.37,"Data Science, Communication, Communication, Public Speaking",0.78,0.51
+5.69,CS402L,Data Science Lab,-,0-1-1,-,Easy,0.33,0.85,0.63,"Data Science Lab, Communication, Communication, Public Speaking",0.78,0.85
+6.47,,Big Data Analytics,-,2-0-2,-,Easy,0.34,0.85,0.28,"Big Data, Communication, Communication, Public Speaking",0.78,0.16
+6.47,,Big Data Analytics Lab,-,0-1-1,-,Moderate,0.63,0.65,0.26,"Big Data Lab, Communication, Communication, Public Speaking",0.78,0.51
+7.25,,Natural Language Processing,-,2-0-2,-,Moderate,0.55,0.46,0.59,"NLP, Communication, Communication, Public Speaking",0.00,0.51
+7.25,,Natural Language Processing Lab,-,0-1-1,-,Moderate,0.74,0.47,0.60,"NLP Lab, Communication, Communication, Public Speaking",0.78,0.16
+8.03,,Computer Vision,-,2-0-2,-,Hard,0.46,0.71,0.65,"Computer Vision, Communication, Communication, Public Speaking",0.78,0.16
+8.03,,Computer Vision Lab,-,0-1-1,-,Moderate,0.21,0.85,0.73,"Computer Vision Lab, Communication, Communication, Public Speaking",0.78,0.51
+8.81,,Data Mining,-,2-0-2,-,Moderate,0.62,0.84,0.88,"Data Mining, Communication, Communication, Public Speaking",0.00,0.85
+8.81,,Data Mining Lab,-,0-1-1,-,Moderate,0.65,0.76,0.59,"Data Mining Lab, Communication, Communication, Public Speaking",0.00,0.51
+9.59,,Deep Learning,-,2-0-2,-,Moderate,0.51,0.65,0.44,"Deep Learning, Communication, Communication, Public Speaking",0.78,0.16
+9.59,,Deep Learning Lab,-,0-1-1,-,Easy,0.65,0.29,0.79,"Deep Learning Lab, Communication, Communication, Public Speaking",0.00,0.51
+10.38,,Distributed Databases,-,2-0-2,-,Easy,0.47,0.33,0.41,"Databases, Communication, Communication, Public Speaking",0.78,0.16
+10.38,,Distributed Databases Lab,-,0-1-1,-,Easy,0.48,0.85,0.54,"Databases Lab, Communication, Communication, Public Speaking",0.78,0.51
+11.16,,Machine Learning,-,2-0-2,-,Easy,0.42,0.63,0.28,"Machine Learning, Communication, Communication, Public Speaking",0.00,0.85
+11.16,,Machine Learning Lab,-,0-1-1,-,Easy,0.14,0.23,0.25,"Machine Learning Lab, Communication, Communication, Public Speaking",0.78,0.51
+11.93,,Block Chain,-,2-0-2,-,Hard,0.21,0.29,0.87,"Blockchain, Communication, Communication, Public Speaking",0.00,0.51
+11.93,,Block Chain Lab,-,0-1-1,-,Moderate,0.14,0.66,0.81,"Blockchain Lab, Communication, Communication, Public Speaking",0.00,0.16
+12.72,,ML Ops,-,2-0-2,-,Easy,0.55,0.23,0.70,"ML Ops, Communication, Communication, Public Speaking",0.78,0.16
+12.72,,ML Ops Lab,-,0-1-1,-,Easy,0.33,0.33,0.51,"ML Ops Lab, Communication, Communication, Public Speaking",0.78,0.16
+13.50,,Data Science,-,2-0-2,-,Easy,0.47,0.60,0.33,"Web Development, Communication, Communication, Public Speaking",0.00,0.51
+13.50,,Data Science Lab,-,0-1-1,-,Moderate,0.75,0.69,0.33,"Web Development Lab, Communication, Communication, Public Speaking",0.78,0.85
+14.28,,Web Technologies,-,2-0-2,-,Moderate,0.29,0.65,0.39,,0.78,0.16
+14.28,,Web Technologies Lab,-,0-1-1,-,Hard,0.41,0.37,0.60,,0.78,0.16
